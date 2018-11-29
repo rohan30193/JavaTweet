@@ -21,10 +21,10 @@
     <session id="-1730581461">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,7 +43,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizarddemo/SampleConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -61,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizarddemo/resources/HelloWorldResource.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -170,8 +170,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20757021" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21001221" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

@@ -7,6 +7,26 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="testng">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.72/jcommander-1.72.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.72/jcommander-1.72.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="com.google.code.maven-play-plugin.com.google.code.eamelink-mockito:mockito-all:1.9.1-20110911" level="application" />
   </component>
 </module>
-

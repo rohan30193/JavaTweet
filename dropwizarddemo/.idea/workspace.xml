@@ -3,15 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="e5608666-8009-4c16-9d0a-af298f187f8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dropwizard-demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizard-demo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dropwizard-demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizard-demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/com/example/helloworld/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTweet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaTweet/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dropwizard-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizard-demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dropwizard-demo/dropwizard-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dropwizard-demo/target/classes/com/yammer/dropwizarddemo/SampleConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dropwizard-demo/target/classes/com/yammer/dropwizarddemo/SampleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dropwizard-demo/target/classes/com/yammer/dropwizarddemo/resources/HelloWorldResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/TwitterConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/TwitterConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/TwitterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/TwitterMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/TwitterResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/TwitterResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/health/TemplateHealthCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yammer/dropwizard/health/TemplateHealthCheck.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,58 +28,67 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/dropwizarddemo$TwitterMain.ic" NAME="TwitterMain Coverage Results" MODIFIED="1542273524077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/dropwizarddemo$TwitterResourceTest_tweetMessage.ic" NAME="TwitterResourceTest.tweetMessage Coverage Results" MODIFIED="1543223059817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yammer.dropwizard.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/dropwizarddemo$TwitterMain.ic" NAME="TwitterMain Coverage Results" MODIFIED="1543392814890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.yammer.dropwizard.*</FILTER>
     </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="221" />
+    <option name="myElementSize" value="82" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1567815379">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="33" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="20" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.1" value="25" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1113" />
+          <entry key="java" value="4539" />
           <entry key="properties" value="10" />
           <entry key="vmoptions" value="2" />
-          <entry key="xml" value="37" />
+          <entry key="xml" value="49" />
           <entry key="yml" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1113" />
+          <entry key="JAVA" value="4539" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="10" />
-          <entry key="XML" value="37" />
+          <entry key="XML" value="49" />
           <entry key="YAML" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
-          <entry key="properties" value="2" />
-          <entry key="vmoptions" value="2" />
-          <entry key="yml" value="1" />
+          <entry key="class" value="24" />
+          <entry key="java" value="29" />
+          <entry key="properties" value="3" />
+          <entry key="vmoptions" value="6" />
+          <entry key="xml" value="2" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="2" />
-          <entry key="YAML" value="1" />
+          <entry key="CLASS" value="24" />
+          <entry key="JAVA" value="29" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="2" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -81,23 +96,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="95" column="10" selection-start-line="95" selection-start-column="10" selection-end-line="95" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -105,8 +108,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="465">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/Implementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="176" column="9" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,10 +130,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yammer/dropwizard/TwitterResourceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/models/TwitterPostInfoPojo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -126,17 +165,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/Response.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Simple.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="435">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#668#669#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,6 +192,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -172,12 +206,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/health/TemplateHealthCheck.java" />
         <option value="$PROJECT_DIR$/Simple.yml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/Response.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterMain.java" />
         <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterResource.java" />
         <option value="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterMain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yammer/dropwizard/TwitterResourceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InitializerAndBuilder/InitializeAndBuild.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/TwitterPostInfoPojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/Implementation.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterResource.java" />
       </list>
     </option>
   </component>
@@ -188,11 +226,33 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1012" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="668" />
+    <option name="width" value="1680" />
     <option name="height" value="947" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Maven</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MavenModelInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,6 +261,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,25 +298,33 @@
             <path>
               <item name="dropwizarddemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="dropwizarddemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542600955301" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543469146816" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.yammer.dropwizard" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.yammer.dropwizard" />
     </key>
@@ -272,7 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TwitterMain">
     <configuration name="TwitterMain" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yammer.dropwizard.TwitterMain" />
       <module name="dropwizarddemo" />
@@ -287,6 +356,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwitterResourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dropwizarddemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yammer.dropwizard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yammer.dropwizard" />
+      <option name="MAIN_CLASS_NAME" value="com.yammer.dropwizard.TwitterResourceTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterResourceTest.tweetMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dropwizarddemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yammer.dropwizard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yammer.dropwizard" />
+      <option name="MAIN_CLASS_NAME" value="com.yammer.dropwizard.TwitterResourceTest" />
+      <option name="METHOD_NAME" value="tweetMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TwitterMain" />
+      <item itemvalue="JUnit.TwitterResourceTest" />
+      <item itemvalue="JUnit.TwitterResourceTest.tweetMessage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TwitterResourceTest" />
+        <item itemvalue="JUnit.TwitterResourceTest.tweetMessage" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -301,11 +411,82 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TwitterResourceTest - 2018.11.26 at 10h 47m 22s.xml">
+      <configuration name="TwitterResourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterResourceTest - 2018.11.26 at 10h 47m 33s.xml">
+      <configuration name="TwitterResourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterResourceTest - 2018.11.26 at 10h 48m 24s.xml">
+      <configuration name="TwitterResourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterResourceTest - 2018.11.26 at 10h 57m 39s.xml">
+      <configuration name="TwitterResourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterResourceTest - 2018.11.26 at 11h 00m 49s.xml">
+      <configuration name="TwitterResourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterResourceTest - 2018.11.26 at 11h 20m 30s.xml">
+      <configuration name="TwitterResourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterResourceTest - 2018.11.26 at 11h 20m 38s.xml">
+      <configuration name="TwitterResourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterResourceTest_tweetMessage - 2018.11.26 at 11h 20m 49s.xml">
+      <configuration name="TwitterResourceTest.tweetMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterResourceTest_tweetMessage - 2018.11.26 at 14h 34m 27s.xml">
+      <configuration name="TwitterResourceTest.tweetMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterResourceTest - 2018.11.26 at 15h 55m 37s.xml">
+      <configuration name="TwitterResourceTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1941392" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21794872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32982457" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32982457" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32865497" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32982457" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32967034" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.0" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21550672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -318,24 +499,122 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32982457" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32982457" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32865497" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32967034" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32967034" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/Implementation.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/Implementation.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/Implementation.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/Implementation.java</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/Implementation.java</url>
+          <line>149</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/Implementation.java</url>
+          <line>171</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/Implementation.java</url>
+          <line>176</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>arrayList.stream().filter(message -&gt; message.contains(filterTweet)).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arrayList.stream().filter(message -&gt; message.contains(filterTweet)).collect(Collectors.toList()).forEach(System.out::println)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arrayList.stream().filter(mesage -&gt; mesage.contains(filterTweet)).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Stream.of(arrayList).filter(message -&gt; message.(filterTweet)).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Stream.of(arrayList).filter(message -&gt; message.equals(filterTweet)).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>filterTweet</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Stream.of(arrayList).filter(message -&gt; message.contains(filterTweet)).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arrayList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/TwitterAppMain.java" />
@@ -349,6 +628,69 @@
     <entry file="file://$USER_HOME$/lithium/checkouts/lia/dev/lia/components/plugins/src/main/java/lithium/util/plugin/revison/svn/SvnRevisionManager.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.18.3/mockito-core-2.18.3.jar!/org/mockito/Mockito.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.18.3/mockito-core-2.18.3.jar!/org/mockito/internal/invocation/RealMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.18.3/mockito-core-2.18.3.jar!/org/mockito/internal/creation/bytebuddy/MockMethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.18.3/mockito-core-2.18.3.jar!/org/mockito/internal/creation/MockSettingsImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1406">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.18.3/mockito-core-2.18.3.jar!/org/mockito/internal/creation/settings/CreationSettings.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -356,10 +698,161 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/Services.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Simple.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/TwitterBaseImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="84" column="18" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InitializerAndBuilder/InitializeAndBuild.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/conf/ConfigurationBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/8.1.10.v20130312/jetty-servlet-8.1.10.v20130312-sources.jar!/org/eclipse/jetty/servlet/ServletHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="680" column="30" lean-forward="true" selection-start-line="680" selection-start-column="30" selection-end-line="680" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/DirectMessageListImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/DirectMessageList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/Paging.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/yammer/dropwizard/dropwizard-core/0.6.2/dropwizard-core-0.6.2-sources.jar!/com/yammer/dropwizard/jersey/OptionalResourceMethodDispatchAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/UserMentionEntityJSONImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/URLEntityJSONImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/UserJSONImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="499" selection-start-line="499" selection-end-line="499" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/MediaEntityJSONImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7.jar!/twitter4j/StatusJSONImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="434" selection-start-line="434" selection-end-line="434" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yammer/dropwizard/TwitterResourceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/TwitterPostInfoPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -374,44 +867,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="465">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yammer/dropwizard/TwitterMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/Implementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state relative-caret-position="343">
+          <caret line="176" column="9" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="95" column="10" selection-start-line="95" selection-start-column="10" selection-end-line="95" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -444,6 +916,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>biz.enef:slogging-slf4j_2.11:0.6.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

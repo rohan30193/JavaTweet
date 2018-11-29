@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2023078d-99cc-423d-8dda-5d42ef41217b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/twitter4j_core_4_0_71.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaTweet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaTweet/com/javapapers/java/RetrievePost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaTweet/com/javapapers/java/TweetJava.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javapapers/java/RetrievePost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javapapers/java/TweetJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/com/example/helloworld/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTweet/com/javapapers/java/RetrievePost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTweet/com/javapapers/java/RetrievePost.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTweet/com/javapapers/java/TweetJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTweet/com/javapapers/java/TweetJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizard-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizard-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterResource.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,17 +31,18 @@
     <session id="-1568334489">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="16" />
+          <entry key="project.open.time.1" value="17" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
+          <entry key="class" value="3" />
           <entry key="iml" value="1" />
           <entry key="java" value="3" />
           <entry key="properties" value="2" />
@@ -49,7 +50,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
+          <entry key="CLASS" value="3" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="3" />
           <entry key="Properties" value="2" />
@@ -75,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javapapers/java/TweetJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="210">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,11 +97,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javapapers/java/RetrievePost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="81" lean-forward="true" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
+            <state relative-caret-position="554">
+              <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Downloads/twitter4j-core-4.0.7.jar!/twitter4j/api/TimelinesResources.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -140,6 +150,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,8 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,7 +230,7 @@
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23748474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24603175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,10 +315,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/Downloads/twitter4j-core-4.0.7.jar!/twitter4j/api/TimelinesResources.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapapers/java/TweetJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -324,8 +341,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapapers/java/RetrievePost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="81" lean-forward="true" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
+        <state relative-caret-position="554">
+          <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
