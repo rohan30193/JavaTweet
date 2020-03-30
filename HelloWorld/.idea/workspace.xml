@@ -7,15 +7,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e63da9-4585-4733-8bdf-cb4241cd897c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintAllPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/AllPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/BeverageMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/DominosPizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/FindWordBacktracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/Flipfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/GraphAdjList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/KdistFromGivenNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/LRUcache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/MaximumIndependentSubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/MedianofArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/NighttourProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/Nqueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/StackMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/UniversalPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/crickInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/duckSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/rainWaterTrapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/singelton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/starbucks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/weatherForcastingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/example/helloworld/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HelloWorld_jar/HelloWorld.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HelloWorld_jar/HelloWorld.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaTweet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaTweet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dropwizard-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizard-demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dropwizarddemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/Simple.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../dropwizarddemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/models/TwitterPostInfoPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/models/TwitterPostInfoPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/services/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/src/main/java/services/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/target/classes/models/TwitterPostInfoPojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/target/classes/models/TwitterPostInfoPojo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropwizarddemo/target/classes/services/Implementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dropwizarddemo/target/classes/services/Implementation.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored mask="*.iml" />
@@ -25,19 +66,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HelloWorld$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1574529550312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.helloworld.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1079868084">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.closed" value="67" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="14" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="18" />
+          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -47,15 +99,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="437" />
+          <entry key="JAVA" value="33294" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="8" />
-          <entry key="XML" value="4" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="72" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -70,22 +125,106 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/DominosPizzaFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/starbucks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/MainTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/BeverageMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="105">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="class#HotBeverage#0;class#BeverageMachine#0" />
+                <element signature="class#ColdBeverage#0;class#BeverageMachine#0" />
+                <element signature="class#getCoffee#0;class#BeverageMachine#0" />
+                <element signature="class#getTea#0;class#BeverageMachine#0" />
+                <element signature="class#getMilk#0;class#BeverageMachine#0" />
+                <element signature="class#getColdCoffee#0;class#BeverageMachine#0" />
+                <element signature="class#getColdDrink#0;class#BeverageMachine#0" />
+                <element signature="class#machine#0;class#BeverageMachine#0" />
+                <element signature="class#Coffee#0;class#BeverageMachine#0" />
+                <element signature="class#ColdDrinks#0;class#BeverageMachine#0" />
+                <element signature="method#main#0;class#BeverageMachine#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/weatherForcastingApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="108" selection-start-line="108" selection-end-line="108" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/singelton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/duckSimulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="752">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/Flipfit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="752">
+              <caret line="356" selection-start-line="356" selection-end-line="356" />
+              <folding>
+                <element signature="class#User#0;class#Flipfit#0" />
+                <element signature="class#Admin#0;class#Flipfit#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/crickInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -95,10 +234,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="TestNG Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>top</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -106,25 +250,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/PrintAllPermutation.java" />
         <option value="$PROJECT_DIR$/src/com/company/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/AllPermutation.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/MyMap.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/LRUcache.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/EveryKmax.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/IterativeInorder.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/ZigZagTraversal.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/InorderSuccessor.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/calculator.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/TopView.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/BottomView.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/KdistFromGivenNode.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/NighttourProblem.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/Nqueen.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/FindWordBacktracking.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/rainWaterTrapping.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/BeverageMachine.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/weatherForcastingApp.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/javaWeatherApp.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/crickInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/starbucks.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/duckSimulation.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/DominosPizzaFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/UniversalPizza.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/singelton.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/GraphAdjList.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/MedianofArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/StackMin.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/MaximumIndependentSubsetSum.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/Flipfit.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="866" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="237" />
     <option name="y" value="23" />
-    <option name="width" value="814" />
+    <option name="width" value="1443" />
     <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -149,42 +325,27 @@
               <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="testng-7.0.0-beta1.jar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542960056292" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585235222702" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -206,8 +367,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JAR Application.HelloWorldJar">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Flipfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.Flipfit" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.helloworld.HelloWorld" />
       <module name="HelloWorld" />
       <extension name="coverage">
@@ -220,12 +394,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.Solution" />
       <module name="HelloWorld" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="crickInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.crickInfo" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="duckSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.duckSimulation" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="starbucks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.starbucks" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,13 +458,20 @@
     </configuration>
     <list>
       <item itemvalue="JAR Application.HelloWorldJar" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.starbucks" />
+      <item itemvalue="Application.duckSimulation" />
+      <item itemvalue="Application.crickInfo" />
+      <item itemvalue="Application.Flipfit" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Flipfit" />
+        <item itemvalue="Application.crickInfo" />
+        <item itemvalue="Application.duckSimulation" />
+        <item itemvalue="Application.starbucks" />
       </list>
     </recent_temporary>
   </component>
@@ -265,11 +488,25 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="com_example_helloworld - 2019.11.23 at 22h 32m 38s.xml">
+      <configuration name="com.example.helloworld" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
+    <frame x="237" y="23" width="1443" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="859" y="239" width="354" height="493" id="Project" order="0" type="WINDOWED" visible="true" weight="0.26067746" />
+      <window_info content_ui="combo" x="859" y="239" width="354" height="449" id="Project" order="0" type="WINDOWED" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -278,15 +515,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32886723" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995128" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39903846" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932693" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32932693" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -295,10 +532,182 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32967034" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="859" y="239" width="354" height="449" id="Project" order="0" type="WINDOWED" weight="0.26067746" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39903846" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932693" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32932693" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932693" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32967034" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PrintAllPermutation.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PrintAllPermutation.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/ZigZagTraversal.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/calculator.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/FindWordBacktracking.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/FindWordBacktracking.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/FindWordBacktracking.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/Flipfit.java</url>
+          <line>356</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/Solution.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/Solution.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/Solution.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/Solution.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/Solution.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/Solution.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result.add(s)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s[j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hm.containsKey(s[j])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>workout1.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>slots.getDay()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>slots.getStartTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Mycentre.slotsWorkoutListHashMap</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Mycentre.slotsWorkoutListHashMap.entrySet()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/description.html">
@@ -325,26 +734,331 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="177">
+          <caret line="579" selection-start-line="579" selection-end-line="579" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ITR-1_2019/ITR/Config/IFSC_BANK_DETAILS.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ITR-1_2019/ITR/Config/Validation.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="240">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/MyMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/LRUcache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/java/io/ExpiringCache.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/ZigZagTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/InorderSuccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="40" column="80" lean-forward="true" selection-start-line="40" selection-start-column="80" selection-end-line="40" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/TopView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="52" column="44" lean-forward="true" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/BottomView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/parkingLotStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/KdistFromGivenNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/Nqueen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/FindWordBacktracking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/rainWaterTrapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/NighttourProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/UniversalPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/GraphAdjList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/StackMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/MaximumIndependentSubsetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/IterativeInorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/AllPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="46" selection-start-line="33" selection-start-column="8" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/MedianofArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintAllPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AllPermutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="889" selection-start-line="889" selection-end-line="889" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/EveryKmax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/weatherForcastingApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/singelton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/crickInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/Flipfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+          <folding>
+            <element signature="class#User#0;class#Flipfit#0" />
+            <element signature="class#Admin#0;class#Flipfit#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/duckSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/starbucks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/DominosPizzaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/BeverageMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="class#HotBeverage#0;class#BeverageMachine#0" />
+            <element signature="class#ColdBeverage#0;class#BeverageMachine#0" />
+            <element signature="class#getCoffee#0;class#BeverageMachine#0" />
+            <element signature="class#getTea#0;class#BeverageMachine#0" />
+            <element signature="class#getMilk#0;class#BeverageMachine#0" />
+            <element signature="class#getColdCoffee#0;class#BeverageMachine#0" />
+            <element signature="class#getColdDrink#0;class#BeverageMachine#0" />
+            <element signature="class#machine#0;class#BeverageMachine#0" />
+            <element signature="class#Coffee#0;class#BeverageMachine#0" />
+            <element signature="class#ColdDrinks#0;class#BeverageMachine#0" />
+            <element signature="method#main#0;class#BeverageMachine#0" />
           </folding>
         </state>
       </provider>
@@ -409,6 +1123,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

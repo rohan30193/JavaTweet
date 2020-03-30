@@ -1,12 +1,16 @@
 package com.yammer.dropwizard;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import models.TwitterPostInfoPojo;
+
+import java.util.List;
 
 public class Response {
 
     private String guid;
     private Boolean success;
     private String message;
+    private List<TwitterPostInfoPojo> response;
 
     public Response() {
 
@@ -33,6 +37,17 @@ public class Response {
     @JsonProperty
     public Boolean getSuccess() {
         return success;
+    }
+
+    public void setTimelineResponse(List<TwitterPostInfoPojo> response)
+    {
+        this.response=response;
+    }
+
+    @JsonProperty
+    public List<TwitterPostInfoPojo> timeLineResponse()
+    {
+        return response;
     }
 
     public void setSuccess(Boolean success) {

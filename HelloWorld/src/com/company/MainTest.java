@@ -10,19 +10,8 @@ import static org.testng.Assert.*;
 
 public class MainTest {
 
+protected void show()
+{
 
-    @Mock
-    private T mockAddNumbers;
-
-    @BeforeMethod
-    public void BeforeMethod()
-    {
-        mockAddNumbers=mock(addNumbersInterface.class);
-    }
-
-    @AfterMethod
-
-    @Test
-    public void testMain() {
-    }
+}
 }

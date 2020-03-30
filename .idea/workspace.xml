@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c54e2881-19fb-4e45-bab2-ed89948c417b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/PrintAllPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/AllPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/BeverageMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/DominosPizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/FindWordBacktracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/KdistFromGivenNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/LRUcache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/NighttourProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/Nqueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/UniversalPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/crickInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/duckSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/rainWaterTrapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/singelton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/starbucks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/weatherForcastingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/out/artifacts/HelloWorld_jar/HelloWorld.jar" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/out/artifacts/HelloWorld_jar/HelloWorld.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/com/company/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/com/company/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTweet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTweet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTweet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTweet/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTweet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTweet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTweet/out/production/JavaTweet/com/javapapers/java/RetrievePost.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTweet/out/production/JavaTweet/com/javapapers/java/RetrievePost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTweet/out/production/JavaTweet/com/javapapers/java/TweetJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTweet/out/production/JavaTweet/com/javapapers/java/TweetJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizard-demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizard-demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizard-demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizard-demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizard-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizard-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizard-demo/dropwizard-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizard-demo/target/classes/com/yammer/dropwizarddemo/SampleConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizard-demo/target/classes/com/yammer/dropwizarddemo/SampleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizard-demo/target/classes/com/yammer/dropwizarddemo/resources/HelloWorldResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/Simple.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/src/main/java/com/yammer/dropwizard/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/src/main/java/com/yammer/dropwizard/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/src/main/java/com/yammer/dropwizard/TwitterResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/src/main/java/models/TwitterPostInfoPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/src/main/java/models/TwitterPostInfoPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/src/main/java/services/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/src/main/java/services/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/target/classes/com/yammer/dropwizard/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/target/classes/com/yammer/dropwizard/Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/target/classes/com/yammer/dropwizard/TwitterResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/target/classes/models/TwitterPostInfoPojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/target/classes/models/TwitterPostInfoPojo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizarddemo/target/classes/services/Implementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizarddemo/target/classes/services/Implementation.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="470252702">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="237" />
+    <option name="y" value="23" />
+    <option name="width" value="1443" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581760525975" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c54e2881-19fb-4e45-bab2-ed89948c417b" name="Default Changelist" comment="" />
+      <created>1581760358082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581760358082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="237" y="23" width="1443" height="947" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982156" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>biz.enef:slogging-slf4j_2.11:0.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IdeaProjects</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

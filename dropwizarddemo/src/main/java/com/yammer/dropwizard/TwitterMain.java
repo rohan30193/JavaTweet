@@ -1,28 +1,35 @@
 package com.yammer.dropwizard;
 
-import com.yammer.dropwizard.config.Bootstrap;
-import com.yammer.dropwizard.config.Environment;
+import io.dropwizard.Application;
+import io.dropwizard.assets.AssetsBundle;
+import io.dropwizard.setup.Bootstrap;
+import io.dropwizard.setup.Environment;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-
-import static com.sun.tools.doclint.Entity.or;
-
-public class TwitterMain extends Service<TwitterConfiguration> {
+public class TwitterMain extends Application<TwitterConfiguration> {
 
 
 
     public static void main(String[] args) throws Exception{
+
         new TwitterMain().run(args);
     }
 
+
     @Override
     public void initialize(Bootstrap<TwitterConfiguration> bootstrap) {
-
+        bootstrap.addBundle(new AssetsBundle("/assets/", "/path/", "index.html", "asset1"));
     }
+
     @Override
     public void run(TwitterConfiguration twitterConfiguration, Environment environment) throws Exception {
 
+        ApplicationContext context = new ClassPathXmlApplicationContext("classpath*:spring.xml");
+        environment.jersey().register(context.getBean("twitterResource", TwitterResource.class));
 
-        environment.addResource(new TwitterResource());
+//        environment.addResource(context.getBean("twitterResource", TwitterResource.class));
+
 
     }
 }
